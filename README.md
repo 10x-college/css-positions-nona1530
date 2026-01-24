@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Y11dLxWO)
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AK-am-zN)
 
 ### დავალება: "CSS Positions" - დიზაინის იმპლემენტაცია
@@ -26,7 +27,8 @@ https://www.figma.com/design/opLphKmHq2loVdSZdqGywv/skilled-elearning-landing-pa
 1. გადაიღეთ აწყობილი გვერდის სურათი (Screenshot) და დაარქვით სახელი (`preview.png`).
 2. ატვირთეთ ეს სურათი თქვენს GitHub რეპოზიტორიაში (კოდის ფაილებთან ერთად).
 
-![Design Preview](./preview.png)
+![Design Preview](./1/preview.png)
+![Design Preview](./2/preview2.png)
 
 #### 🚀 (Optional) ჰოსტინგი
 
