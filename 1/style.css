@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     font-family: 'kumbh-sans';
@@ -85,7 +85,7 @@ main {
 }
 .number {
     color: #2E3349;
-    font-size 18px;
+    font-size: 18px;
     font-weight: 700;
     line-height: 125%;
     letter-spacing: 0px;
